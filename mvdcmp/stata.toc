@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p mvdcmp Multivariate decomposition for nonlinear response models Use mvdcmp With STATA 18
