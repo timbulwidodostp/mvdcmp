@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'mvdcmp': Multivariate decomposition for nonlinear response models Use mvdcmp With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f mvdcmp.ado
+f mvdcmp.sthlp
+f mvdcmpgroup.ado
+f mvdcmpgroup.sthlp
