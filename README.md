@@ -1,6 +1,8 @@
 # mvdcmp
 Multivariate decomposition for nonlinear response models Use mvdcmp With STATA 18
 
+https://www.youtube.com/watch?v=jVIdhnXDNdc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
